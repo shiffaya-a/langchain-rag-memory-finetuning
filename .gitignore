@@ -1,0 +1,8 @@
+.env
+chroma_db/
+models/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+
